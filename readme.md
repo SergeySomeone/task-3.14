@@ -15,10 +15,10 @@ License: [MIT](licence.md)
 4. [Первый git add и git commit!](content/commit.md)
 5. [Git push](content/push.md)
 6. [Ветвление GitHub](content/branches.md)
-7. [Слияние и наложение ветвей в GitHub](content/merge.md)
-8. [Gitignore - что, зачем и как?](content/untracked.md)
-9. [Проверка статуса файлов, просмотр изменений, история коммитов](content/check.md)
-10. [Другие команды и разные полезности](content/other.md)
+7. [Управление ветвлением в Git](./content/checkout.md)
+8. [Слияние и наложение ветвей в Git](content/merge.md)
+9. [Pull/pull-request](./content/pull.md)
+10. [Проверка статуса файлов, просмотр изменений, история коммитов](content/check.md)
 
 
 ---
