@@ -10,13 +10,13 @@ License: [MIT](licence.md)
 Содержание:
 
 1. [Общее](content/general.md)
-2. [Авторизация](./content/setup.md)
+2. [Установка и авторизация в Git](./content/setup.md)
 3. [Начало работы](content/start.md)
 4. [Первый git add и git commit!](content/commit.md)
 5. [Git push](content/push.md)
 6. [Ветвление GitHub](content/branches.md)
 7. [Управление ветвлением в Git](./content/checkout.md)
-8. [Слияние и наложение ветвей в Git](content/merge.md)
+8. [Слияние ветвей в Git](content/merge.md)
 9. [Pull/pull-request](./content/pull.md)
 10. [Проверка статуса файлов, просмотр изменений, история коммитов](content/check.md)
 
